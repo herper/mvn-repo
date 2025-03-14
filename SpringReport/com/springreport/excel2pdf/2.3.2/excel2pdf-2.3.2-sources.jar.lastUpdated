@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Mar 14 12:04:18 CST 2025
+http\://mirrors.cloud.tencent.com/nexus/repository/maven-public/.error=
+http\://maven.aliyun.com/nexus/content/repositories/central/.lastUpdated=1741925049249
+http\://mirrors.cloud.tencent.com/nexus/repository/maven-public/.lastUpdated=1741925058587
+http\://maven.aliyun.com/nexus/content/repositories/central/.error=
