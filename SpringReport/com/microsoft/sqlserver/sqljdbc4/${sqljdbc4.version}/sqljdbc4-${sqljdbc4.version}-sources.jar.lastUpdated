@@ -1,6 +1,0 @@
-#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Mon Jun 24 15:54:54 CST 2024
-@default-tencent-http\://mirrors.cloud.tencent.com/nexus/repository/maven-public/.lastUpdated=1719215694519
-http\://mirrors.cloud.tencent.com/nexus/repository/maven-public/.error=Could not transfer artifact com.microsoft.sqlserver\:sqljdbc4\:jar\:sources\:${sqljdbc4.version} from/to tencent (http\://mirrors.cloud.tencent.com/nexus/repository/maven-public/)\: Failed to transfer http\://mirrors.cloud.tencent.com/nexus/repository/maven-public/com/microsoft/sqlserver/sqljdbc4/${sqljdbc4.version}/sqljdbc4-${sqljdbc4.version}-sources.jar. Error code 400, Bad Request
-http\://maven.aliyun.com/nexus/content/repositories/central/.lastUpdated=1719215632441
-http\://maven.aliyun.com/nexus/content/repositories/central/.error=
